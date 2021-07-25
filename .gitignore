@@ -1,5 +1,7 @@
 # custom added
 *.DS_Store
+*Sarcasm_detection_in_News_Headlines.docx
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
